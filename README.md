@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
- <a href="https://github.com/anuraghazra/convoychat">
+ <a href="https://github.com/WinsomeQuill">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinsomeQuill&bg_color=30,0d1117,0d1117&text_color=fff" />
  </a>
 </div>
