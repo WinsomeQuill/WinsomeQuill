@@ -1,15 +1,11 @@
-# Welcome to my profile! <img src="https://visitor-badge.glitch.me/badge?page_id=winsomequill" alt="visitor badge"/>
+# Welcome to my profile!
 
-<div align="center">
+<div style="display: flex;">
+  <a href="https://github.com/WinsomeQuill">
+   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=WinsomeQuill&show_icons=true&bg_color=30,0d1117,0d1117&text_color=fff&card_width=400" />
+  </a>
+ 
  <a href="https://github.com/WinsomeQuill">
-  <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api?username=WinsomeQuill&show_icons=true&bg_color=30,0d1117,0d1117&text_color=fff" />
- </a>
-</div>
-
----
-
-<div align="center">
- <a href="https://github.com/WinsomeQuill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinsomeQuill&bg_color=30,0d1117,0d1117&text_color=fff" />
- </a>
+   <img align="center" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinsomeQuill&bg_color=30,0d1117,0d1117&text_color=fff&card_width=500&langs_count=5" />
+  </a>
 </div>
