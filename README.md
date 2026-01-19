@@ -7,6 +7,6 @@
 </div>
 <div align="center">
   <a href="https://github.com/WinsomeQuill">
-   <img align="center" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinsomeQuill&bg_color=30,0d1117,0d1117&text_color=fff&card_width=450&langs_count=10&hide=typescript,sourcepawn,php,css,html" />
+   <img align="center" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinsomeQuill&bg_color=30,0d1117,0d1117&text_color=fff&card_width=450&langs_count=10&hide=typescript,sourcepawn,php,css,html,just,Dockerfile,Makefile" />
   </a>
 </div>
